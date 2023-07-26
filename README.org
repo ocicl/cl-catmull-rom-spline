@@ -1,0 +1,10 @@
+* cl-catmull-rom-spline
+
+CR Spline in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Jach/cl-catmull-rom-spline.git   |
+| commit  | 677bccf  |
+| systems | cl-catmull-rom-spline |
+|---------+-------------------------------------------|
+
